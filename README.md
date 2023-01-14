@@ -35,7 +35,7 @@ Next, we give the user the ability to upload any type of image (jpeg,png,etc) of
 
 We also have a contact page if you need any help or have any suggestions
 
-### What are our goals for the webiste
+### What are our goals for the website
 
 We want to be able to help educate people of all ages and background on the hundereds of different types of seashells across the world. Seashells are a vital compoment in our eco system. For example, they are used as homes for sea snails, small fish, crabs and many different animals. Once the seashell has been discared, mother nature slowly grinds it down into tiny microscopic peices which eventually are the main material in beautiful sandy beaches! 
 
